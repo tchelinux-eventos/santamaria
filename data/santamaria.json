@@ -1,0 +1,41 @@
+{
+    "id": "santamaria",
+    "date": "2018-10-11",
+    "city": "Santa Maria",
+    "institution": {
+        "courses":  [
+            { "name": "Sistemas de Informação", "url":"#" },
+            { "name": "Ciência da Computação", "url":"#" }
+        ],
+        "long_name": "Universidade Franciscana",
+        "short_name": "Universidade Franciscana",
+        "address": "Rua Silva Jardim, 1175, Bairro Rosário",
+        "url": "http://www.universidadefranciscana.edu.br",
+        "logo": "images/universidadefransciscana.png",
+        "latitude": -29.6845422,
+        "longitude": -53.8145135
+    },
+    "sponsors": [
+    ],
+    "support": [
+    ],
+    "rooms" : [
+        { "number": "1", "subject": "" },
+        { "number": "2", "subject": "" },
+        { "number": "3", "subject": "" }
+    ],
+    "callForPapers": {
+        "url": "https://example.com",
+        "deadline": "2018-09-17",
+        "notification": "2018-09-21"
+    },
+    "enrollment": {
+        "start": "2018-09-15",
+        "deadline": "2017-10-10",
+        "url": "https://example.com",
+        "availability": 300,
+        "closed": false
+    },
+    "result": {}
+}
+
