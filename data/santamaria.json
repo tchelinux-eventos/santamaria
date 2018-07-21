@@ -25,14 +25,14 @@
         { "number": "3", "subject": "" }
     ],
     "callForPapers": {
-        "url": "https://example.com",
+        "url": "https://goo.gl/forms/rgxJa8ffdVJtFGUC3",
         "deadline": "2018-09-17",
         "notification": "2018-09-21"
     },
     "enrollment": {
         "start": "2018-09-15",
         "deadline": "2017-10-10",
-        "url": "https://example.com",
+        "url": "https://goo.gl/forms/2Bln0lUMJmLMS2Mo1",
         "availability": 300,
         "closed": false
     },
