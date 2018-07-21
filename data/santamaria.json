@@ -1,6 +1,6 @@
 {
     "id": "santamaria",
-    "date": "2018-10-11",
+    "date": "2018-11-10",
     "city": "Santa Maria",
     "institution": {
         "courses":  [
@@ -26,8 +26,8 @@
     ],
     "callForPapers": {
         "url": "https://goo.gl/forms/rgxJa8ffdVJtFGUC3",
-        "deadline": "2018-09-17",
-        "notification": "2018-09-21"
+        "deadline": "2018-09-22",
+        "notification": "2018-09-29"
     },
     "enrollment": {
         "start": "2018-09-15",
