@@ -3,10 +3,7 @@
     "date": "2018-11-10",
     "city": "Santa Maria",
     "institution": {
-        "courses":  [
-            { "name": "Sistemas de Informação", "url":"#" },
-            { "name": "Ciência da Computação", "url":"#" }
-        ],
+        "courses":  [],
         "long_name": "Universidade Franciscana",
         "short_name": "Universidade Franciscana",
         "address": "Rua Silva Jardim, 1175, Bairro Rosário",
@@ -16,8 +13,32 @@
         "longitude": -53.8145135
     },
     "sponsors": [
+        {
+            "long_name": "Umbler",
+            "short_name": "Umbler",
+            "url": "https://www.umbler.com/",
+            "logo": "umbler.png"
+        }
     ],
     "support": [
+        {
+            "long_name": "Jogos",
+            "short_name": "Jogos",
+            "url": "http://www.universidadefranciscana.edu.br/",
+            "logo": "logo_jogos.jpg"
+        },
+        {
+            "long_name": "Sistemas de Informação",
+            "short_name": "SI",
+            "url": "http://www.universidadefranciscana.edu.br/",
+            "logo": "logo_SI.jpg"
+        },
+        {
+            "long_name": "Ciência da Computação",
+            "short_name": "CC",
+            "url": "http://www.universidadefranciscana.edu.br/",
+            "logo": "logo_CC.jpg"
+        }
     ],
     "rooms" : [
         { "number": "1", "subject": "" },
@@ -30,12 +51,11 @@
         "notification": "2018-09-29"
     },
     "enrollment": {
-        "start": "2018-09-15",
-        "deadline": "2017-10-10",
+        "start": "2018-09-29",
+        "deadline": "2018-11-10",
         "url": "https://goo.gl/forms/2Bln0lUMJmLMS2Mo1",
         "availability": 300,
         "closed": false
     },
     "result": {}
 }
-
