@@ -4,12 +4,6 @@
 
 O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Universidade Franciscana**](https://www.ufn.edu.br/site/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **09 de Novembro de 2019 a partir das 8:30h** na UFN em Santa Maria.
 
-## Chamada de Trabalhos
-
-A Chamada de Trabalhos está aberta e o **prazo para submissão** de propostas de palestra é **05 de Outubro de 2019**. Os trabalhos escolhidos serão anúnciados no dia **09 de Outubro de 2019**.
-
-<center><a href="https://santamaria.tchelinux.org/cfp/" style="color:#ff4040"><h3><b>Clique aqui e submeta sua palestra agora mesmo!</b></h3></a></center>
-
 ## Inscrições
 
 As inscrições estarão abertas a partir do dia 09 de Outubro, quando a **programação do evento** for anunciada.
