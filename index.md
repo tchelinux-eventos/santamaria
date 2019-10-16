@@ -232,6 +232,7 @@ Julio Mallmann é Professor da Rede Pública a 16 anos, Pós-Graduado em Pedagog
 
 [![Umano Tec](images/logo_umanotec.png)](https://umanotec.com/)
 [![Animati](images/logo_animati.png)](https://animati.com.br/)
+[![FP2 Tecnologia](images/logo_fp2.png)](https://www.fp2.com.br/)
 
 ### Institucional
 
