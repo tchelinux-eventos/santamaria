@@ -30,11 +30,11 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | **10:20** |  [**Porque Você Deve Aprender Rust**](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |[**Desenvolvimento de jogos retrô para consoles 16 bits**](#Desenvolvimento_de_jogos_retrô_para_consoles_16_bits) <br> <span class="label label-success">Principiante</span> <br> Fabiano Ferreira |[**Empodere sua comunidade!**](#Empodere_sua_comunidade!) <br> <span class="label label-danger">Avançado</span> <br> Camile de Paula Silva |
 | **11:10** |  [**Python para análise de dados**](#Python_para_análise_de_dados) <br> <span class="label label-success">Principiante</span> <br> Andrius Jaques | [**Como o Linux pode facilitar a vida do desenvolvedor iniciante**](#Como_o_Linux_pode_facilitar_a_vida_do_desenvolvedor_iniciante) <br> <span class="label label-success">Principiante</span> <br> Diogo Medeiros | [**O Software Livre e o Ensino à Distância**](#O_Software_Livre_e_o_Ensino_à_Distância) <br> <span class="label label-success">Principiante</span> <br> Julio Mallmann |
 | **12:00** <td colspan=4><center>**Intervalo para Almoço**</center> |
-| **13:30** |  [**Lean Inception**](#Lean_Inception) <br> <span class="label label-success">Principiante</span> <br> Guilherme Pissolatto | [**Porque e Como Participar de Projetos Open Source**](#Porque_e_Como_Participar_de_Projetos_Open_Source) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |[**Case de Gestão Administrativa e Modularizada com uso do GLPI**](#Case_de_Gestão_Administrativa_e_Modularizada_com_uso_do_GLPI) <br> <span class="label label-success">Principiante</span> <br> Ricardo Lazzari da Rosa |
+| **13:30** | [**Fugindo para as Colinas com Python**](#Fugindo_para_as_Colinas_com_Python) <br> <span class="label label-success">Principiante</span> <br> Julio Biason | [**Visão Computacional com OpenCV**](#Visão_Computacional_com_OpenCV) <br> <span class="label label-success">Principiante</span> <br> Rafael Jeffman | [**Case de Gestão Administrativa e Modularizada com uso do GLPI**](#Case_de_Gestão_Administrativa_e_Modularizada_com_uso_do_GLPI) <br> <span class="label label-success">Principiante</span> <br> Ricardo Lazzari da Rosa |
 | **14:20** |  [**Desenvolvendo jogos com Python e Pygame**](#Desenvolvendo_jogos_com_Python_e_Pygame) <br> <span class="label label-success">Principiante</span> <br> Rafael Jeffman | [**Docker para iniciantes**](#Docker_para_iniciantes) <br> <span class="label label-success">Principiante</span> <br> Cristiano Diedrich | [**Você pode jogar no Linux?**](#Você_pode_jogar_no_Linux?) <br> <span class="label label-success">Principiante</span> <br> Manuel Vieira |
 | **15:10** <td colspan=4><center>**Coffee-Break**</center> |
 | **15:40** |  [**Introdução ao Desenvolvimento Móvel com Ionic**](#Introdução_ao_Desenvolvimento_Móvel_com_Ionic) <br> <span class="label label-success">Principiante</span> <br> Rafael Jeffman | [**Kubernetes para iniciantes**](#Kubernetes_para_iniciantes) <br> <span class="label label-success">Principiante</span> <br> Cristiano Diedrich | [**Coding for Kids: Conheça o Scratch e ScratchJr**](#Coding_for_Kids:_Conheça_o_Scratch_e_ScratchJr) <br> <span class="label label-success">Principiante</span> <br> Cassiano Molinari | 
-| **16:30** |  [**Riscos e falhas**](#Riscos_e_falhas) <br> <span class="label label-success">Principiante</span> <br> Marco Antonio Martins Junior | [**Controlador de Domínio e Compartilhamento de Arquivos com Samba 4**](#Controlador_de_Domínio_e_Compartilhamento_de_Arquivos_com_Samba_4) <br> <span class="label label-success">Principiante</span> <br> Alexandre Mendes | [**TI Verde para nós Nerds!**](#TI_Verde_para_nós_Nerds!) <br> <span class="label label-warning">Intermediário</span> <br> Luiz Rauber | 
+| **16:30** |  [**Riscos e falhas**](#Riscos_e_falhas) <br> <span class="label label-success">Principiante</span> <br> Marco Antonio Martins Junior | [**Controlador de Domínio e Compartilhamento de Arquivos com Samba 4**](#Controlador_de_Domínio_e_Compartilhamento_de_Arquivos_com_Samba_4) <br> <span class="label label-success">Principiante</span> <br> Alexandre Mendes | [**Porque e Como Participar de Projetos Open Source**](#Porque_e_Como_Participar_de_Projetos_Open_Source) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |
 | **17:20** <td colspan=4><center>**Encerramento**<br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
 
 ## Palestras
@@ -66,24 +66,22 @@ Conversaremos sobre como o Python vem se destacando e crescendo em meio ao avan�
 Andrius é Analista de Dados na Analisar.net. Programador além do trabalho,  recentemente está retomando projetos do mundo opensource. Também é um entusiasta para projetos ligados a Dados Abertos.
 
 
-### Lean Inception
+### Fugindo para as Colinas com Python
 
-Modelo de colaboração para a criação de produtos . Diversas empresas, principalmente pequenos negócios que precisam de uma orientação, como as Startups, buscam por especialistas na hora de criar de seus modelos de negócios, produtos ou serviços. Contudo as metodologias existentes estão se tornando inviáveis, uma vez que, em um mundo cada vez mais conectado por conta da transformação digital, levar algumas semanas de desenvolvimento para se atingir um objetivo é praticamente uma eternidade. O criador do método Lean Inception, Paulo Caroli, visualizou no conceito de MVP a inspiração para o que viria a se tornar sua metodologia, criando um ciclo de colaboração muito mais eficaz e rápido.
+Uma introdução incomum ao Python. Ao invés de sair explicando cada um dos elementos da linguagem, iremos destrinchar uma simples aplicação que já existe, explicando as peculiaridades da linguagem.
 
-### Guilherme Pissolatto
+### Julio Biason
 
-Guilherme Pissolatto é formado em Ciências da Computação pela Universidade de Passo Fundo, Especialista em Qualidade de Software pela Unisinos e Scrum Master na Meta.
+[Julio Biason](https://functional.cafe/@juliobiason) participa de projetos open source desde 2000 e é programador Python desde 2004.
 
 
 ### Desenvolvendo jogos com Python e Pygame
 
 Jogar todo mundo joga. Programar, todo mundo pode. Jogar todo mundo treina. Programar, nem tanto. Mas para jogar é necessário que alguém desenvolva suas habilidades de programador. Nesse bate papo, porque ninguém mais tem paciência para palestras, será apresentada uma forma divertida de desenvolver a programação e conhecer a linguagem Python, construindo jogos, utilizando a biblioteca Pygame e ferramentas open source para desenvolver um jogo.
 
-
 ### Rafael Guterres Jeffman
 
 Rafael Jeffman é parte do time de desenvolvimento do FreeIPA (Red Hat), fotógrafo e impressor. Entre os projetos pessoais atuais estão, um conjunto de ferramentas para fotografia profissional open source, uma linguagem para o ensino de design de jogos, uma linguagem para a criação de aperesentações, e um framework que explora o paralelismo massivo para criação de aplicações multimídia. Quando dá tempo e é cobrado, desenvolve os sistemas de backend do Tchelinux, e os piores frontends do mundo.
-
 
 ### Introdução ao Desenvolvimento Móvel com Ionic
 
@@ -111,7 +109,6 @@ Arduino é uma plataforma de hardware e software abertos. Criada com o intuito d
 
 Gabriel Fachim tem 16 anos e está terminando o curso técnico em Informática.
 
-
 ### Desenvolvimento de jogos retrô para consoles 16 bits
 
 Esta palestra tem por objetivo mostrar os paradigmas, desafios e técnicas de criação de jogos antigos para plataformas de consoles 16 bits, especificamente Mega Drive.
@@ -128,13 +125,13 @@ A ideia é dar razões para desenvolvedores usarem um ambiente Linux a partir do
 
 Diogo Medeiros foi desenvolvedor web por cerca de 10 anos, usuário há mais de 15 anos e apaixonado por tecnologia desde sempre. Atualmente é CTO no Jetimob, coordenando as áreas de design e programação.
 
-### Porque e Como Participar de Projetos Open Source
+### Visão Computacional com OpenCV
 
-No mundo atual, todos usam pelo menos um aplicativo open source. Mas como participar disso? Como ajudar o aplicativo a melhorar? É preciso saber programar para ajudar? Essas e outras perguntas serão respondidas nessa apresentação.
+Uma demostração, ao vivo, da criação de uma aplicação de visão computacional utilizando a a biblioteca OpenCV.
 
-### Julio Biason
+### Rafael Guterres Jeffman
 
-Julio Biason participa de projetos open source desde 1990.
+Rafael Jeffman é parte do time de desenvolvimento do FreeIPA (Red Hat), fotógrafo e impressor. Entre os projetos pessoais atuais estão, um conjunto de ferramentas para fotografia profissional open source, uma linguagem para o ensino de design de jogos, uma linguagem para a criação de aperesentações, e um framework que explora o paralelismo massivo para criação de aplicações multimídia. Quando dá tempo e é cobrado, desenvolve os sistemas de backend do Tchelinux, e os piores frontends do mundo.
 
 ### Docker para iniciantes
 
@@ -177,13 +174,13 @@ Nesta apresentação veremos: A Jornada do Empreendedor; Quem é a sua comunidad
 
 Camile de Paula Silva é formada em Tecnologia em Processos Gerencias pela UniCesumar e Publicidade e Propaganda pela UFN, foi líder de comunidade do Startup Weekend Santa Maria 2018, participando de 4 eventos na cidade. Apaixonada por comunidades, acredita que as pessoas boas são o caminho para desenvolver Santa Maria. Atualmente proprietária da Planeando Consultoria Digital especializada em Marketing e Branding.
 
-### TI Verde para nós Nerds!
+### Porque e Como Participar de Projetos Open Source
 
-De uma forma potencialmente menos chata e inclusiva à ate quem não é de informática e aos nerds, pretende-se explanar tópicos ligados a TI Verde ou Green IT (e seus relacionados) como: obsolescência programada; lixo eletrônico (e-waste); ISO; ACV (Análise do Ciclo de Vida) e ACV-S; cidades inteligentes e ainda algumas sugestões de soluções tecnológicas (ou não) que podem fazer bem ao seu bolso e ao meio-ambiente, pensando-se nos 3 pilares da sustentabilidade (que é outro tópico da palestra).
+No mundo atual, todos usam pelo menos um aplicativo open source. Mas como participar disso? Como ajudar o aplicativo a melhorar? É preciso saber programar para ajudar? Essas e outras perguntas serão respondidas nessa apresentação.
 
-### Luiz Rauber Rodrigues
+### Julio Biason
 
-Luiz Rauber Rodrigues é Empreendedor/ Professor/ Pesquisador a anos ligado a grupos de Software Livre, Startups, Gestão de Projetos e Educação; Atualmente é doutorando em Tecnologia Ambiental com tese em TI Verde e ACV-S de Smartphones na UNISC e professor de informática no Senac Santa Cruz do Sul; Fez Mestrado em Nanociências (UNIFRA) onde trabalhou com genética, especialização em Gerenciamento de Projetos na PUCRS com métodos ágeis e graduação em Ciência da Computação e Técnico Informática na URI-Santiago com sistemas web. Voluntário ao ecossistemas de Startups e eventos da área como Startup Weekend em algumas cidades e grupos/ eventos de Software Livre como FISL, Latinoware, Campus Party, FLISOL, Tchelinux.org, Code Clube Brasil e JabutiEDU.org.
+Julio Biason participa de projetos open source desde 1990.
 
 ### Case de Gestão Administrativa e Modularizada com uso do GLPI
 
