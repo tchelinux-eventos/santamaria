@@ -2,11 +2,11 @@
 
 ## Sobre
 
-O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Universidade Franciscana**](https://www.ufn.edu.br/site/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **09 de Novembro de 2019 a partir das 8:30h** na UFN em Santa Maria.
+O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Universidade Franciscana**](https://www.ufn.edu.br/site/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **09 de Novembro de 2019 a partir das 8:30h** no Prédio 14 do Conjunto III da UFN em Santa Maria (Rua Silva Jardim, 1175).
 
 ## Inscrições
 
-As inscrições estarão abertas a partir do dia 09 de Outubro, quando a **programação do evento** for anunciada.
+As inscrições estarão abertas a partir do dia 09 de Outubro, quando a **programação do evento** foi anunciada.
 
 O evento tem **entrada franca**, porém os participantes são encorajados a doar 2kg de alimentos não perecíveis (exceto sal), que são doados a instituições de caridade da região.
 
@@ -22,10 +22,10 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 ## Programação
 
-| <center> Horário </center> | <center> Sala 1 <br> Desenvolvimento e Metodologias </center> | <center> Sala 2 <br> IoT, DevOps e SysAdmin  </center> | <center> Sala 3 <br> Empreendedorismo e Comunidade </center> |
+| <center> Horário </center> | <center> Sala 201 <br> Desenvolvimento e Metodologias <br> <small>(40 lugares)</small> </center> | <center> Sala 202 <br> IoT, DevOps e SysAdmin  <br> <small>(40 lugares)</small> </center> | <center> Sala 203 <br> Empreendedorismo e Comunidade <br> <small>(40 lugares)</small>  </center> |
 |:--------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | **08:30** <td colspan=4><center>**Credenciamento**</center> |
-| **09:00** <td colspan=4><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
+| **09:00** <td colspan=4><center>**Abertura**<br> Auditório Acústico <br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux <br> <small>(120 lugares)</small> </center> |
 | **09:30** |  [**O Poder das PWAs**](#O_Poder_das_PWAs) <br> <span class="label label-success">Principiante</span> <br> Vinicius Gularte | [**Introdução ao Arduino**](#Introdução_ao_Arduino) <br> <span class="label label-success">Principiante</span> <br> Gabriel Fachim | [**JASON: Ambiente Livre para Modelar e Implementar Sistemas Multiagentes no contexto de Inteligência Artificial**](#JASON:_Ambiente_Livre_para_Modelar_e_Implementar_Sistemas_Multiagentes_no_contexto_de_Inteligência_Artificial) <br> <span class="label label-warning">Intermediário</span> <br> Alexandre Zamberlan |
 | **10:15** |  [**Porque Você Deve Aprender Rust**](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |[**Desenvolvimento de jogos retrô para consoles 16 bits**](#Desenvolvimento_de_jogos_retrô_para_consoles_16_bits) <br> <span class="label label-success">Principiante</span> <br> Fabiano Ferreira |[**Empodere sua comunidade!**](#Empodere_sua_comunidade!) <br> <span class="label label-danger">Avançado</span> <br> Camile de Paula Silva |
 | **11:00** |  [**Python para análise de dados**](#Python_para_análise_de_dados) <br> <span class="label label-success">Principiante</span> <br> Andrius Jaques | [**Como o Linux pode facilitar a vida do desenvolvedor iniciante**](#Como_o_Linux_pode_facilitar_a_vida_do_desenvolvedor_iniciante) <br> <span class="label label-success">Principiante</span> <br> Diogo Medeiros | [**O Software Livre e o Ensino à Distância**](#O_Software_Livre_e_o_Ensino_à_Distância) <br> <span class="label label-success">Principiante</span> <br> Julio Mallmann |
